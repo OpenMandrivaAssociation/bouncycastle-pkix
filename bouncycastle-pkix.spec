@@ -6,7 +6,7 @@ Version:       1.50
 Release:       3%{?dist}
 Summary:       Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs
 License:       MIT
-URL:           http://www.bouncycastle.org/
+URL:           https://www.bouncycastle.org/
 Source0:       http://www.bouncycastle.org/download/bcpkix-%{archivever}.tar.gz
 Source1:       http://central.maven.org/maven2/org/bouncycastle/bcpkix-jdk15on/%{version}/bcpkix-jdk15on-%{version}.pom
 Source2:       bouncycastle-pkix-build.xml
